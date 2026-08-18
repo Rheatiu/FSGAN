@@ -91,18 +91,7 @@ requirements.txt
 
 ---
 
-## 📖 Citation
 
-If you find this work useful, please cite:
-
-```bibtex
-@article{du2026fine,
-  title={Fine-Grained Semantic-Guided Image Super-Resolution},
-  author={Du, Jin and Huang, Lei and Nie, Jie and Zhang, Ke and Wei, Zhiqiang},
-  journal={IEEE Transactions on Multimedia},
-  year={2026}
-}
-```
 
 ---
 
@@ -110,9 +99,16 @@ If you find this work useful, please cite:
 
 This project is built upon and adapted from [SeD](https://github.com/lbc12345/SeD),[KAIR](https://github.com/cszn/KAIR), [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN/tree/master), [CLIP](https://github.com/openai/CLIP) and [HRNet](https://github.com/HRNet). Please follow their respective licenses for usage and redistribution. Thanks for their awesome works.
 
----
+## 📖 Citation
 
-## 📬 Contact
+If you find this work useful, please cite:
 
-Feel free to contact me if there is any question. (Jin Du: [rhea_dj@stu.ouc.edu.cn](mailto:rhea_dj@stu.ouc.edu.cn), Lei Huang: [huangl@ouc.edu.cn](mailto:huangl@ouc.edu.cn))
+```bibtex
+@article{du2026,
+  title={Fine-Grained Semantic-Guided Image Super-Resolution},
+  author={Du, Jin and Huang, Lei and Nie, Jie and Zhang, Ke and Wei, Zhiqiang},
+  journal={IEEE Transactions on Multimedia},
+  year={2026}
+}
+```
 
