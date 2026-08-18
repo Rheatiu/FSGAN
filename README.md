@@ -91,13 +91,11 @@ requirements.txt
 
 ---
 
-
-
----
-
 ## 📄 License & Acknowledgment
 
 This project is built upon and adapted from [SeD](https://github.com/lbc12345/SeD),[KAIR](https://github.com/cszn/KAIR), [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN/tree/master), [CLIP](https://github.com/openai/CLIP) and [HRNet](https://github.com/HRNet). Please follow their respective licenses for usage and redistribution. Thanks for their awesome works.
+
+---
 
 ## 📖 Citation
 
