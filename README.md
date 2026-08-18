@@ -100,8 +100,7 @@ If you find this work useful, please cite:
   title={Fine-Grained Semantic-Guided Image Super-Resolution},
   author={Du, Jin and Huang, Lei and Nie, Jie and Zhang, Ke and Wei, Zhiqiang},
   journal={IEEE Transactions on Multimedia},
-  year={2026},
-  publisher={IEEE}
+  year={2026}
 }
 ```
 
